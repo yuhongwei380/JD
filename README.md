@@ -1,4 +1,4 @@
-# 请勿FORK 谢谢 ！基于github action的京东签到
+# 请勿FORK 谢谢 ！
 ## 介绍
 
 
